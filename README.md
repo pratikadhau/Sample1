@@ -1,1 +1,3 @@
-# Sample1
+# Requirement 
+Java 8
+Gradle latest
