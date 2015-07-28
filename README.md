@@ -3,6 +3,10 @@ Java 7
 
 Gradle 1.3
 
+Git
+
+Checkout repo git clone 
+
 use following command to create artifact
 
 gradle clean build
