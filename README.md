@@ -16,4 +16,5 @@ then go to jar location
 cd <repository_location>/build/lib
 
 Use below command
-java -cp GalaxyMerchant-1.3.jar org.galaxy.merchant.App
+
+java -cp <Artifact>.jar org.galaxy.merchant.App
